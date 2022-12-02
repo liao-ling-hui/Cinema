@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin:0 auto;
+}
+
+#head{
+	width: 1500px;
+	height: 30px;
+	/*border: 1px dashed red;*/
+	margin-top: 80px;
+	margin-left: 15px;
+	background-color: #E5E1E1;
+}
+
+#head .log{
+	align-content: center;
+	margin-left: 200px;
+}
+
+#head .info{
+	float: right;
+	text-align: center;
+	margin-right: 120px;
+}
+
+#head .help{
+	float: right;
+	text-align: center;
+	margin-right: 30px;
+}
+
+#head  a{
+	text-decoration:none;
+}
+
+
+#content{
+	width: 1200px;
+	height: 600px;
+	/*border:1px dashed red;*/
+	margin-left: 220px;
+	margin-top: 20px;
+}
+
+.content_head{
+	width: 1200px;
+	height: 40px;
+	/*border:1px dashed blue;*/
+}
+
+.content_head .info{
+	float: right;
+	text-align: center;
+	margin-right: 120px;
+}
+
+#content a{
+	text-decoration: none;
+}
+
+.content_centen{
+	width:1200px;
+	height: 350px;
+	/*border: 1px dotted deeppink;*/
+}
+
+.content_centen .left{
+	width:700px;
+	height: 350px;
+	/*border: 1px double red;*/
+	
+}
+
+.content_centen .left img{
+	width:250px;
+	height: 300px;
+}
+
+
+
+.content_centen .span{
+	float: right;
+	width: 350px;
+	height: 350px;
+}
+
+
+.content_centen .span h3{
+	margin-top: 10px;
+}
+
+.content_centen .span p{
+	margin-top: 15px;
+}
+
+.content_centen .info{
+	float: right;
+	width: 300px;
+	height: 350px;
+	margin-right: -700px;
+	margin-top: 20px;
+}
+
+.info p{
+	margin-top: 10px;
+}
+
+.method span{
+	top: 50px;
+}
+
+.foot{
+	width:1200px;
+	height: 400px;
+	margin-top: 50px;
+	
+}
+
+.truck-button{
+	margin-top: 80px;
+	width: 200px;
+	height: 50px;
+	border: none;
+	background-color: #E6E6FA;
+	color: #331F20;
+}
